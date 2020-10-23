@@ -23,7 +23,7 @@ fi
 
 downloadpg() {
   rm -rf /opt/plexguide
-  git clone https://github.com/maxerism/PGBlitz.com.git /opt/plexguide && cp /opt/plexguide/menu/interface/alias/templates/plexguide /bin/
+  git clone https://github.com/maxPGblitz/PGBlitz.com.git /opt/plexguide && cp /opt/plexguide/menu/interface/alias/templates/plexguide /bin/
   cp /opt/plexguide/menu/interface/alias/templates/plexguide /bin/plexguide
 }
 

@@ -1,7 +1,7 @@
 ##### WANT TO HELP? CLICK THE ★ (STAR LOGO) in the Upper-Right! 
 <p align="center">
   <a href="https://pgblitz.com/forums" target="_blank"><img src="https://pgblitz.com/wikipics/logo-forums.png" width="160"/>   
-  <a href="https://github.com/maxerism/PGBlitz.com/wiki" target="_blank"><img src="https://pgblitz.com/wikipics/logo-wiki.png" width="160"/>
+  <a href="https://github.com/maxPGblitz/PGBlitz.com/wiki" target="_blank"><img src="https://pgblitz.com/wikipics/logo-wiki.png" width="160"/>
   <a href="https://pgblitz.com/threads/plexguide-install-instructions.243/" target="_blank"><img src="https://pgblitz.com/wikipics/logo-pg-install.png" width="160"/> 
   <a href="https://pgblitz.com/account/upgrades" target="_blank"><img src="https://pgblitz.com/wikipics/logo-donate.png" width="160"/>
 </p>
@@ -61,11 +61,11 @@ _**Table of Contents**_
 
 In general, it's best to go down the line on the wiki on how to install PGBlitz and run through the steps, but one major goal is to provide a list of reading on some basic fundamentals; which will ensure better execution.
 
-[**[Click Here]**](https://github.com/maxerism/PGBlitz.com/wiki/Pre-Reading) to view the list!
+[**[Click Here]**](https://github.com/maxPGblitz/PGBlitz.com/wiki/Pre-Reading) to view the list!
 
 ## 6. Having Issues?
 
-[**[Click Here]**](https://github.com/maxerism/PGBlitz.com/wiki/Common-Issues) for more information!
+[**[Click Here]**](https://github.com/maxPGblitz/PGBlitz.com/wiki/Common-Issues) for more information!
 
 ## 7. Conclusion
 Well anyways... welcome to the PGBlitz! Visit our forums @ [**https://pgblitz.com/forums**](https://pgblitz.com/forums).
